@@ -1,0 +1,184 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		184B93311EFBE66B00614E77 /* sortno.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = sortno.java; sourceTree = "<group>"; };
+		184B93321EFBE97D00614E77 /* binarysearch.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = binarysearch.java; sourceTree = "<group>"; };
+		18B993FD1EFA2C2100736173 /* classintro1.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro1.java; sourceTree = "<group>"; };
+		18C8DD5D1EFBABE800250ABE /* defaultconstructor.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = defaultconstructor.java; sourceTree = "<group>"; };
+		18C8DD5E1EFBADDE00250ABE /* minno.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = minno.java; sourceTree = "<group>"; };
+		18C8DD5F1EFBAF7F00250ABE /* searchno.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = searchno.java; sourceTree = "<group>"; };
+		18D9B5FC1EFC1CEE00A5A20A /* returnbyvalue.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = returnbyvalue.java; sourceTree = "<group>"; };
+		18D9B5FD1EFC1E8F00A5A20A /* mtdover.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = mtdover.java; sourceTree = "<group>"; };
+		18D9B5FE1EFC229800A5A20A /* paraconst.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = paraconst.java; sourceTree = "<group>"; };
+		18D9B5FF1EFC247600A5A20A /* cpyconst.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = cpyconst.java; sourceTree = "<group>"; };
+		18D9B6001EFC264F00A5A20A /* arrasarg.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = arrasarg.java; sourceTree = "<group>"; };
+		18D9B6011EFC27F200A5A20A /* vararg.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = vararg.java; sourceTree = "<group>"; };
+		18DA1E0A1EFB577800FEA1CE /* suminarr.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = suminarr.java; sourceTree = "<group>"; };
+		18DA1E0B1EFB580100FEA1CE /* foreachintro.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = foreachintro.java; sourceTree = "<group>"; };
+		18F10CF81EFA8CCD00769BE4 /* classintro2.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro2.java; sourceTree = "<group>"; };
+		18F10CF91EFA8F8F00769BE4 /* classintro3.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro3.java; sourceTree = "<group>"; };
+		18F10CFA1EFA904100769BE4 /* classintro4.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro4.java; sourceTree = "<group>"; };
+		18F10CFB1EFA93BE00769BE4 /* classintro5.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro5.java; sourceTree = "<group>"; };
+		18F10CFC1EFA94AF00769BE4 /* classintro6.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro6.java; sourceTree = "<group>"; };
+		18F10CFD1EFA970B00769BE4 /* classintro7.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro7.java; sourceTree = "<group>"; };
+		18F10CFE1EFA981B00769BE4 /* classintro8.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = classintro8.java; sourceTree = "<group>"; };
+		18F10CFF1EFACF0E00769BE4 /* defmtd.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = defmtd.java; sourceTree = "<group>"; };
+		18F10D001EFAD19900769BE4 /* parametermtd.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = parametermtd.java; sourceTree = "<group>"; };
+		18F10D011EFAD58800769BE4 /* Arrayprint.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Arrayprint.java; sourceTree = "<group>"; };
+		18F3EFF91EFCD091000FCC0C /* stringintro1.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = stringintro1.java; sourceTree = "<group>"; };
+		DD2B96D61EF6751800F33B11 /* forinterview.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = forinterview.java; sourceTree = "<group>"; };
+		DD38131D1EF51FC100348A4B /* patern11.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern11.java; sourceTree = "<group>"; };
+		DD38131E1EF5213100348A4B /* patern12.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern12.java; sourceTree = "<group>"; };
+		DD4A39CA1EF1628900ED9717 /* printdigit.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = printdigit.java; sourceTree = "<group>"; };
+		DD4A39CB1EF163ED00ED9717 /* chardigitrev.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = chardigitrev.java; sourceTree = "<group>"; };
+		DD4A39CC1EF1667F00ED9717 /* factorialno.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = factorialno.java; sourceTree = "<group>"; };
+		DD4A39CD1EF167E800ED9717 /* palino.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = palino.java; sourceTree = "<group>"; };
+		DD86D96D1EF4436D0058C4E9 /* revpt00.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = revpt00.java; sourceTree = "<group>"; };
+		DD86D96E1EF44BAE0058C4E9 /* primeno.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = primeno.java; sourceTree = "<group>"; };
+		DD86D9701EF450C00058C4E9 /* oddbycon.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = oddbycon.java; sourceTree = "<group>"; };
+		DD87FCF31EF65A600014AB98 /* sqrtwo.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = sqrtwo.java; sourceTree = "<group>"; };
+		DD90A34E1EF46944001C83B5 /* localp1.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = localp1.java; sourceTree = "<group>"; };
+		DD9975501EF1A862009CE441 /* staticexcess.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = staticexcess.java; sourceTree = "<group>"; };
+		DD9975511EF1ADF9009CE441 /* fibonicciseries.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = fibonicciseries.java; sourceTree = "<group>"; };
+		DDB6CCDC1EF6448600494D9D /* swapwith3.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = swapwith3.java; sourceTree = "<group>"; };
+		DDB6CCDD1EF6465200494D9D /* swap2.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = swap2.java; sourceTree = "<group>"; };
+		DDB6CCDE1EF646BD00494D9D /* printzerorev.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = printzerorev.java; sourceTree = "<group>"; };
+		DDB6CCDF1EF6485100494D9D /* maintest1.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = maintest1.java; sourceTree = "<group>"; };
+		DDB6CCE01EF649A400494D9D /* maintest2.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = maintest2.java; sourceTree = "<group>"; };
+		DDB6CCE11EF64AE500494D9D /* maintest3.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = maintest3.java; sourceTree = "<group>"; };
+		DDB6CCE21EF64C0D00494D9D /* maintest4.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = maintest4.java; sourceTree = "<group>"; };
+		DDEC17F51EF4E93B00357C9D /* Paternsedda*.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = "Paternsedda*.java"; sourceTree = "<group>"; };
+		DDEC17F61EF4EBC000357C9D /* Patern2.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Patern2.java; sourceTree = "<group>"; };
+		DDEC17F71EF4EC9200357C9D /* patern3.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern3.java; sourceTree = "<group>"; };
+		DDEC17F81EF4ED5300357C9D /* ArmstongNo.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = ArmstongNo.java; sourceTree = "<group>"; };
+		DDEC17FB1EF4EF0F00357C9D /* patern4.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern4.java; sourceTree = "<group>"; };
+		DDEC17FC1EF4EFFA00357C9D /* Patern5.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Patern5.java; sourceTree = "<group>"; };
+		DDEC17FD1EF4F06100357C9D /* patern6.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern6.java; sourceTree = "<group>"; };
+		DDEC17FE1EF4F0F700357C9D /* patern7.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern7.java; sourceTree = "<group>"; };
+		DDEC17FF1EF4F1E900357C9D /* patern8.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern8.java; sourceTree = "<group>"; };
+		DDEC18001EF4F2AD00357C9D /* patern9.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern9.java; sourceTree = "<group>"; };
+		DDEC18011EF4F3B000357C9D /* patern10.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = patern10.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		DD3CC0571EEF9496004E70A3 = {
+			isa = PBXGroup;
+			children = (
+				18F3EFF91EFCD091000FCC0C /* stringintro1.java */,
+				18D9B5FC1EFC1CEE00A5A20A /* returnbyvalue.java */,
+				18F10CF81EFA8CCD00769BE4 /* classintro2.java */,
+				18F10CF91EFA8F8F00769BE4 /* classintro3.java */,
+				18D9B5FD1EFC1E8F00A5A20A /* mtdover.java */,
+				18C8DD5D1EFBABE800250ABE /* defaultconstructor.java */,
+				18D9B5FE1EFC229800A5A20A /* paraconst.java */,
+				18D9B5FF1EFC247600A5A20A /* cpyconst.java */,
+				18D9B6001EFC264F00A5A20A /* arrasarg.java */,
+				18D9B6011EFC27F200A5A20A /* vararg.java */,
+				18C8DD5E1EFBADDE00250ABE /* minno.java */,
+				184B93311EFBE66B00614E77 /* sortno.java */,
+				184B93321EFBE97D00614E77 /* binarysearch.java */,
+				18C8DD5F1EFBAF7F00250ABE /* searchno.java */,
+				18F10CFA1EFA904100769BE4 /* classintro4.java */,
+				18F10CFB1EFA93BE00769BE4 /* classintro5.java */,
+				18F10CFC1EFA94AF00769BE4 /* classintro6.java */,
+				18F10CFD1EFA970B00769BE4 /* classintro7.java */,
+				18F10CFE1EFA981B00769BE4 /* classintro8.java */,
+				18F10CFF1EFACF0E00769BE4 /* defmtd.java */,
+				18F10D001EFAD19900769BE4 /* parametermtd.java */,
+				18F10D011EFAD58800769BE4 /* Arrayprint.java */,
+				18DA1E0A1EFB577800FEA1CE /* suminarr.java */,
+				18B993FD1EFA2C2100736173 /* classintro1.java */,
+				18DA1E0B1EFB580100FEA1CE /* foreachintro.java */,
+				DDB6CCDC1EF6448600494D9D /* swapwith3.java */,
+				DDB6CCE01EF649A400494D9D /* maintest2.java */,
+				DDB6CCE11EF64AE500494D9D /* maintest3.java */,
+				DDB6CCE21EF64C0D00494D9D /* maintest4.java */,
+				DD87FCF31EF65A600014AB98 /* sqrtwo.java */,
+				DD2B96D61EF6751800F33B11 /* forinterview.java */,
+				DDB6CCDD1EF6465200494D9D /* swap2.java */,
+				DDEC17F51EF4E93B00357C9D /* Paternsedda*.java */,
+				DD38131E1EF5213100348A4B /* patern12.java */,
+				DDB6CCDE1EF646BD00494D9D /* printzerorev.java */,
+				DDB6CCDF1EF6485100494D9D /* maintest1.java */,
+				DD38131D1EF51FC100348A4B /* patern11.java */,
+				DDEC17F61EF4EBC000357C9D /* Patern2.java */,
+				DD90A34E1EF46944001C83B5 /* localp1.java */,
+				DD86D9701EF450C00058C4E9 /* oddbycon.java */,
+				DDEC18011EF4F3B000357C9D /* patern10.java */,
+				DDEC17F81EF4ED5300357C9D /* ArmstongNo.java */,
+				DDEC17F71EF4EC9200357C9D /* patern3.java */,
+				DD4A39CA1EF1628900ED9717 /* printdigit.java */,
+				DDEC17FB1EF4EF0F00357C9D /* patern4.java */,
+				DDEC18001EF4F2AD00357C9D /* patern9.java */,
+				DD4A39CD1EF167E800ED9717 /* palino.java */,
+				DDEC17FC1EF4EFFA00357C9D /* Patern5.java */,
+				DDEC17FD1EF4F06100357C9D /* patern6.java */,
+				DDEC17FE1EF4F0F700357C9D /* patern7.java */,
+				DDEC17FF1EF4F1E900357C9D /* patern8.java */,
+				DD4A39CB1EF163ED00ED9717 /* chardigitrev.java */,
+				DD4A39CC1EF1667F00ED9717 /* factorialno.java */,
+				DD9975511EF1ADF9009CE441 /* fibonicciseries.java */,
+				DD9975501EF1A862009CE441 /* staticexcess.java */,
+				DD86D96D1EF4436D0058C4E9 /* revpt00.java */,
+				DD86D96E1EF44BAE0058C4E9 /* primeno.java */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		DD3CC0581EEF9496004E70A3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+			};
+			buildConfigurationList = DD3CC05B1EEF9496004E70A3 /* Build configuration list for PBXProject "SMmacos" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DD3CC0571EEF9496004E70A3;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		DD3CC05C1EEF9496004E70A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		DD3CC05D1EEF9496004E70A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DD3CC05B1EEF9496004E70A3 /* Build configuration list for PBXProject "SMmacos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3CC05C1EEF9496004E70A3 /* Debug */,
+				DD3CC05D1EEF9496004E70A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DD3CC0581EEF9496004E70A3 /* Project object */;
+}
